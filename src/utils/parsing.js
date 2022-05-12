@@ -1,6 +1,6 @@
 /**
  * Function returns a string of every nth letter of the text provided as a parameter 
- * @param {number} nthLetter - the number ...
+ * @param {number} nthLetter 
  * @returns {function getEvery_inner({string} text)}
  */
 const getEvery = (nthLetter) => {
